@@ -39,6 +39,8 @@ You are now ready to go! So what's next? You can create a new project by running
 ```
 rasa init
 ```
+Later just integrated with flask to create an website.
+
 ### Implementation
 ---
 1. Create a New Project :fire:.
